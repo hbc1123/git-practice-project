@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="git-practice-project" target="1.5" />
-      <module name="spring-boot-git-demo" target="16" />
+      <module name="spring-boot-git-demo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

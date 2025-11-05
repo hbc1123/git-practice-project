@@ -8,7 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        String message = "Hello, this is a broken version"
-        return message;
+        return "Hello, Git and Spring Boot!";
     }
 }
